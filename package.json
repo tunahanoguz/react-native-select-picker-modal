@@ -1,0 +1,31 @@
+{
+  "name": "react-native-select-picker-modal",
+  "version": "1.0.1",
+  "description": "Simple select picker modal for React Native apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunahanoguz/react-native-select-picker-modal.git"
+  },
+  "keywords": [
+    "react",
+    "react native",
+    "react native component",
+    "react native modal component",
+    "react native select picker component",
+    "react native select picker",
+  ],
+  "author": "Tunahan Oğuz",
+  "license": "MIT",
+  "homepage": "https://github.com/tunahanoguz/react-native-select-picker-modal#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "prop-types": "*"
+  }
+}
